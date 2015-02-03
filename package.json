@@ -1,0 +1,21 @@
+{
+  "name": "ng-revealjs",
+  "version": "1.0.0",
+  "description": "Angular Directive wrapper for Revealjs presentation library.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prescottprue/ng-revealjs"
+  },
+  "keywords": [
+    "Reveal",
+    "revealjs",
+    "Angular",
+    "Directive"
+  ],
+  "author": "Prescott Prue <sprue.dev@gmail.com> (http://prescottprue.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prescottprue/ng-revealjs/issues"
+  },
+  "homepage": "https://github.com/prescottprue/ng-revealjs"
+}
