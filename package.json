@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/prescottprue/ng-revealjs/issues"
   },
-  "homepage": "https://github.com/prescottprue/ng-revealjs"
+  "homepage": "https://github.com/prescottprue/ng-revealjs",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.9.0",
+    "load-grunt-tasks": "^3.1.0"
+  }
 }
