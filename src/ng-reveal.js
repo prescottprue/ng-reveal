@@ -53,7 +53,7 @@ angular.module('reveal', [])
   return {
     restrict:'AE',
     replace:'true',
-    template:'<div class="slides"></div>'
+    template:'<div class="slides"></div>',
     //[TODO] Use compile function
     link: function(scope, elem, attrs) {
       /**
